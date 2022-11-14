@@ -14,3 +14,9 @@ button.my-btn{
     background-color: #cc3c0f;
     border-color: #cc3c0f;
 }
+
+div.my-card{
+    background-color:greenyellow;
+    border-radius: 25px;
+    overflow: hidden;
+}

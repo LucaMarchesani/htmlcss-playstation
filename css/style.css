@@ -1,4 +1,4 @@
-#jumbo{
+div.jumbo.top{
     padding-top: 10rem;
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
@@ -24,4 +24,17 @@ div.play-nolimits h1{
     font-weight: 500;
     font-size: 3rem;
 }
+
+div.hidden-border{
+    border-bottom: 2px solid #2d64e6;
+}
+
+div.jumbo.bottom{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+
 

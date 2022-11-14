@@ -1,3 +1,16 @@
 #jumbo{
-    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+    padding-top: 10rem;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+h1.jumbo-sub-title{
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+button.my-btn{
+    background-color: #cc3c0f;
+    border-color: #cc3c0f;
 }

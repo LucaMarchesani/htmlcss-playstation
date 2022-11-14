@@ -16,7 +16,12 @@ button.my-btn{
 }
 
 div.my-card{
-    background-color:greenyellow;
-    border-radius: 25px;
+    border-radius: 20px;
     overflow: hidden;
 }
+
+div.play-nolimits h1{
+    font-weight: 500;
+    font-size: 3rem;
+}
+

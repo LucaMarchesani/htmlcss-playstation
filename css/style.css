@@ -67,6 +67,18 @@ p.new-games-text{
     font-size: 1.15rem;
 }
 
+section.ps-plus{
+    background-color: #bebcbb;
+}
+
+img.plus-img{
+    display: none;
+}
+
+a.plus-button{
+    background-color: #d9dadc;
+}
+
 
 
 

@@ -1,9 +1,14 @@
 header{
     font-family: arial;
+    overflow: hidden;
 }
 
 main{
     font-family: helvetica;
+}
+
+nav.my-nav{
+    background-color: #ffffff;
 }
 
 div.jumbo.top{

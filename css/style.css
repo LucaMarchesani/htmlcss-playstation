@@ -1,3 +1,11 @@
+header{
+    font-family: arial;
+}
+
+main{
+    font-family: helvetica;
+}
+
 div.jumbo.top{
     padding-top: 10rem;
     background-image: url(../img/jumbo-bg.png);
@@ -33,6 +41,29 @@ div.jumbo.bottom{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
     background-position: center;
+}
+
+section.my-new{
+    background-color: #1f1f1f;
+}
+
+div.new-text>h2{
+    font-size: 2.2rem;
+    font-weight: 500;
+}
+
+div.new-text>p{
+    font-size: 1.7rem;
+    font-weight: 500;
+    margin: 1.5rem 0 1rem;
+}
+
+img.new-games{
+    border-radius: 20px;
+}
+
+p.new-games-text{
+    font-size: 1.15rem;
 }
 
 

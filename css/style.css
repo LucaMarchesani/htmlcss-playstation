@@ -7,6 +7,14 @@ main{
     font-family: helvetica;
 }
 
+div.sony-top-bar{
+    background-color: #000000;
+}
+
+img.sony-log{
+    filter: invert(1);
+}
+
 nav.my-nav{
     background-color: #ffffff;
 }
@@ -28,18 +36,21 @@ button.my-btn{
     border-color: #cc3c0f;
 }
 
-div.my-card{
+div.my-card:hover{
     border-radius: 20px;
-    overflow: hidden;
+    border: 2px solid #2d64e6;
+    padding: 3px;
+    transition: 150ms;
+
+}
+
+img.img-radius{
+    border-radius: 15px;
 }
 
 div.play-nolimits h1{
     font-weight: 500;
     font-size: 3rem;
-}
-
-div.hidden-border{
-    border-bottom: 2px solid #2d64e6;
 }
 
 div.jumbo.bottom{

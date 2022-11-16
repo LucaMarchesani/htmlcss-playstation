@@ -1,4 +1,4 @@
-header{
+header {
     font-family: arial;
     overflow: hidden;
 }
@@ -65,7 +65,7 @@ div.jumbo.bottom{
     background-position: center;
 }
 
-section.my-new{
+div.my-new{
     background-color: #1f1f1f;
     padding-bottom: 3rem;
 }
@@ -89,7 +89,7 @@ p.new-games-text{
     font-size: 1.15rem;
 }
 
-section.ps-plus{
+div.ps-plus{
     background-color: #bebcbb;
 }
 
@@ -105,7 +105,7 @@ div.ps-store>h1{
     font-size: 2.6rem;
 }
 
-section.ps-now{
+div.ps-now{
     background-color: #161c3b;
 }
 

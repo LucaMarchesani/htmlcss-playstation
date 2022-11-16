@@ -53,6 +53,11 @@ div.play-nolimits h1{
     font-size: 3rem;
 }
 
+img.ps5-img:hover{
+    border-bottom: 2px solid #2d64e6;
+
+}
+
 div.jumbo.bottom{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
